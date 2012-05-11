@@ -1,5 +1,5 @@
 This package will install BlogBridger, a Wordpress/SMF bridge, in SMF.  Please
-consult http://code.mattzuba.com/blogbridger before seeking assistance in the
+consult the [author's website](http://code.mattzuba.com/blogbridger) before seeking assistance in the
 SMF support topic.
 
 PHP 5.2 or greater is required to run this modification.  It is also only MySQL
